@@ -1,0 +1,12 @@
+//  1. map함수 가장 기본사용법
+// ex) const numbers = [1,2,3,4,5];
+//     const result = numbers.map((num)=>num*2)
+
+
+// 쓰고싶은배열.map((불러내고싶은거) => 실행하려는거)
+
+
+// 2.데이터를 뽑아 내고 싶을때 사용법(index이용해서)
+// const menu = ['menu1','menu2','menu3']
+// const menuList = menu.map((menu,index)=>처리할꺼)
+
